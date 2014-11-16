@@ -1,0 +1,8 @@
+[package]
+
+name = "artcmd"
+version = "0.0.1"
+authors = ["huy <huy@huyng.com>"]
+
+[[bin]]
+name = "art"
